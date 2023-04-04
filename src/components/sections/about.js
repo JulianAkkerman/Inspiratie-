@@ -129,38 +129,39 @@ const About = () => {
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
-      <h2 className="numbered-heading">About Me</h2>
+      <h2 className="numbered-heading">Informatie over mij</h2>
 
       <div className="inner">
         <StyledText>
           <div>
             <p>
               Hallo, mijn naam is Julian Akkerman en ik hou van programmeren en informatica. 
-              Volgend jaar ga in Artificial Intelligence studeren bij Utrecht University of Applied Sciences. 
-               &amp; 
+              Volgend jaar ga ik Artificial Intelligence studeren bij Utrecht University of Applied Sciences. 
+                
             </p>
 
             <p>
-              Dit jaar is het laatste jaar dat ik studeer op Veluws College Apeldoorn Walterbosch{' '}
+              Dit jaar is het laatste jaar dat ik studeer op Veluws College{' '}
               <a href=''></a>,{' '}
-              <a href="https://www.veluwscollege.nl/walterbosch/">Student</a>,{' '}
-              <a href="https://www.apple.com/">a huge corporation</a>, and{' '}
-              <a href="https://scout.camd.northeastern.edu/">a student-led design studio</a>. My
-              main focus these days is building accessible, inclusive products and digital
-              experiences at <a href="https://upstatement.com/">Upstatement</a> for a variety of
-              clients.
+              <a href="https://www.veluwscollege.nl/walterbosch/">Walterbosch</a>{''}
+              <a href="https://www.apple.com/"></a>, als student.{' '}
+              <a href="https://scout.camd.northeastern.edu/"></a>. 
+              Mijn doel is om later een eigen bedrijf te starten en veel mensen te helpen mede door Artificial Intelligence. 
+
+              
+               <a href="https://upstatement.com/"></a> 
             </p>
 
             <p>
-              I also recently{' '}
-              <a href="https://www.newline.co/courses/build-a-spotify-connected-app">
-                launched a course
+              Door spellen als {' '}
+              <a href="https://axieinfinity.com/">
+                Axie Infinity 
               </a>{' '}
-              that covers everything you need to build a web app with the Spotify API using Node
+              Heb ik al veel kennis gekregen over programmeren en cryptovaluta, waardoor dat mij veel tijdens mijn studie gaat helpen.
               &amp; React.
             </p>
 
-            <p>Here are a few technologies I’ve been working with recently:</p>
+            <p>Hier zijn programeertalen waar ik recentelijk mee heb gewerkt:</p>
           </div>
 
           <ul className="skills-list">
