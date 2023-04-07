@@ -1,12 +1,12 @@
 ---
 date: '2018-05-14'
-title: 'Engineer'
-company: 'Upstatement'
+title: ''
+company: 'Banen'
 location: 'Boston, MA'
-range: 'May 2018 - Present'
-url: 'https://www.upstatement.com/'
+range: 'Mei 2020 - Present'
+url: 'https://axieinfinity.com/'
 ---
 
-- Write modern, performant, maintainable code for a diverse array of client and internal projects
-- Work with a variety of different languages, platforms, frameworks, and content management systems such as JavaScript, TypeScript, Gatsby, React, Craft, WordPress, Prismic, and Netlify
-- Communicate with multi-disciplinary teams of engineers, designers, producers, and clients on a daily basis
+- Gewerkt bij restaurant SOAP in 2020-2021. 
+- 2020-2023 aan de slag als ZZP'er bij Youngones 
+- Manager bij Axie Infinity 

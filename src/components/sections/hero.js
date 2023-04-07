@@ -60,16 +60,15 @@ const Hero = () => {
   }, []);
 
   const one = <h1>Hi, my name is</h1>;
-  const two = <h2 className="big-heading">Brittany Chiang.</h2>;
-  const three = <h3 className="big-heading">I build things for the web.</h3>;
+  const two = <h2 className="big-heading">Julian Akkerman.</h2>;
+  const three = <h3 className="big-heading">Student Informatica 6V.</h3>;
   const four = (
     <>
       <p>
-        I’m a software engineer specializing in building (and occasionally designing) exceptional
-        digital experiences. Currently, I’m focused on building accessible, human-centered products
-        at{' '}
+      Ik ben een student op Veluws College Walterbosch en zit nu in 6VWO. Volgend jaar ga ik Artificial Intelligence studeren 
+        op de Universiteit van Utrecht.{' '}
         <a href="https://upstatement.com/" target="_blank" rel="noreferrer">
-          Upstatement
+          
         </a>
         .
       </p>
@@ -81,7 +80,7 @@ const Hero = () => {
       href="https://www.newline.co/courses/build-a-spotify-connected-app"
       target="_blank"
       rel="noreferrer">
-      Check out my course!
+      Mijn CV
     </a>
   );
 

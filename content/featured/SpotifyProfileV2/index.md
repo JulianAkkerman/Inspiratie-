@@ -1,16 +1,11 @@
 ---
 date: '3'
-title: 'Build a Spotify Connected App'
+title: 'Character Animator '
 cover: './course-card.png'
-external: 'https://www.newline.co/courses/build-a-spotify-connected-app'
-cta: 'https://www.newline.co/courses/build-a-spotify-connected-app'
+external: 'https://www.adobe.com/nl/products/character-animator.html?gclid=Cj0KCQjw27mhBhC9ARIsAIFsETEXLJZxvbzjNFEUDpUi54ohRCOEdaPIzujyYnZ2y8S7LoyfwnJqidgaApxYEALw_wcB&mv=search&mv=search&sdid=N3PCRV8G&ef_id=Cj0KCQjw27mhBhC9ARIsAIFsETEXLJZxvbzjNFEUDpUi54ohRCOEdaPIzujyYnZ2y8S7LoyfwnJqidgaApxYEALw_wcB:G:s&s_kwcid=AL!3085!3!474167049257!e!!g!!character%20animator!1441877179!60095930601p'
+cta: 'https://www.adobe.com/nl/products/character-animator.html?gclid=Cj0KCQjw27mhBhC9ARIsAIFsETEXLJZxvbzjNFEUDpUi54ohRCOEdaPIzujyYnZ2y8S7LoyfwnJqidgaApxYEALw_wcB&mv=search&mv=search&sdid=N3PCRV8G&ef_id=Cj0KCQjw27mhBhC9ARIsAIFsETEXLJZxvbzjNFEUDpUi54ohRCOEdaPIzujyYnZ2y8S7LoyfwnJqidgaApxYEALw_wcB:G:s&s_kwcid=AL!3085!3!474167049257!e!!g!!character%20animator!1441877179!60095930601'
 tech:
-  - React
-  - Express
-  - Spotify API
-  - Styled Components
+  - Character Animator 
 ---
 
-Having struggled with understanding how the Spotify OAuth flow works, I made the course I wish I could have had.
-
-Unlike tutorials that only cover a few concepts and leave you with half-baked GitHub repositories, this course covers everything from explaining the principles of REST APIs to implementing Spotify's OAuth flow and fetching API data in a React app. By the end of the course, you’ll have an app deployed to the internet you can add to your portfolio.
+Met Character Animator heb ik twee filmpjes gemaakt met 'Walter White' uit de hit serie Breaking Bad. Links ziet u een gedeelte uit dat filmpje. Character Animator was erg lastig, maar naarmate je het gebruikt wordt het steeds makkelijker.
